@@ -31,7 +31,6 @@ Create a [miro account](https://miro.com/) and new board that is shared publicly
 
 person | challenge
 ---|---
-
 demo | `forEach`
 partner 1 | `map`
 partner 2 | `filter`
