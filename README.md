@@ -1,7 +1,5 @@
 # Spotlight: DS&A - Functions (recursion and higher order)
 
-===
-
 ## Code Challenges, aka "White Boarding"
 
 Time-boxed, live sessions with interviewers who give you a coding challenges that you are expected to attempt to solve. (Distinct from take-home challenges)
