@@ -14,10 +14,10 @@ Set array length | `arr.length = arr.length - 1`
 
 ## Challenge
 
-Write a function `forEach` that takes an array and a predicate callback function, calling it for each item in the array.
+Write a function `forEach` that takes an array and a callback function, calling it for each item in the array.
 
 ```js
-function forEach(arr, predicate) {
+function forEach(arr, callback) {
 ```
 
 > **You can assume valid inputs**

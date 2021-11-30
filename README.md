@@ -96,4 +96,4 @@ Submit the url to your shared Miro board
 
 Task | Points
 ---|---
-4 individual + 1 paired | 4 points each
+4 individual | 5 points each

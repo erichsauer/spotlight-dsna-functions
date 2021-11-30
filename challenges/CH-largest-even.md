@@ -12,7 +12,7 @@ If there is no even number, return -1.
 function largestEven(nums) { // HINT: you can destructure
 ```
 
-> **You can assume valid inputs
+> **You can assume valid inputs**
 
 ## Test Cases
 

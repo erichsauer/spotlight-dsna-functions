@@ -30,7 +30,7 @@ Write a function named fib that takes an integer `n` as its input. It should ret
 function fib(n) {
 ```
 
-> **You can assume valid inputs
+> **You can assume valid inputs**
 
 ## Test Cases
 

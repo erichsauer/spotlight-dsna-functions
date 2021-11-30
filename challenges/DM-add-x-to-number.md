@@ -5,7 +5,7 @@ DEMO: Add x to Number
 
 Write a function `addX` that takes a number `x` and returns a function that also takes a number but returns the sum of the initial number `x` plus the new number
 
-> **You can assume valid inputs
+> **You can assume valid inputs**
 
 ## Test Cases
 

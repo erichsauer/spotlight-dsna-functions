@@ -9,7 +9,7 @@ Write a function that finds the sum of the first n natural numbers. **Make your 
 function sum(n) {
 ```
 
-> **You can assume valid inputs
+> **You can assume valid inputs**
 
 ## Test Cases
 

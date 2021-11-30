@@ -5,7 +5,7 @@ DEMO: Add Punctuation
 
 Write a function `addPunctuation` that takes a string of `punctuation` and returns a function that also takes a strings but returns the string plus the initially provided `punctuation`.
 
-> **You can assume valid inputs
+> **You can assume valid inputs**
 
 ## Test Cases
 
