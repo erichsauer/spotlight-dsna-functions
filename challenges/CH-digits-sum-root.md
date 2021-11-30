@@ -11,7 +11,15 @@ Create a function that takes a number and returns one digit that is the result o
 function rootDigit(n) {
 ```
 
-> **You can assume valid inputs
+> **You can assume valid inputs**
+
+HINT: summing digits:
+
+```js
+const digits = number.toString().split('');
+const numbers = digits.map(d => +d);
+const sum = numbers.reduce((a, b) => a + b);
+```
 
 ## Test Cases
 
