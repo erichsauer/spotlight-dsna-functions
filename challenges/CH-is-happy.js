@@ -1,4 +1,6 @@
-function isHappy(n, memo) {
+//TODO check this
+function isHappy(n, memo)
+{
   memo = memo || {}
   const result = n
     .toString()

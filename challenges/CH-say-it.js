@@ -1,4 +1,4 @@
-// function sayIt(word1)
+// TODO function sayIt(word1)
 // {
 //   return function next(word2)
 //   {
